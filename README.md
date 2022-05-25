@@ -1,2 +1,2 @@
 #!/bin/bash
-My first commit
+This is the readme of the project alx-system_engineering-devops
