@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown $USER:$BETTY ./hello
+chown $USER:$BETTY ./hello
