@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown -h VINCENT : STAFF _hello
+chown -h VINCENT : STAFF _hello
