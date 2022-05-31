@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la $PATH | wc -l
+sudo ls -l $(echo $PATH) | wc -l
