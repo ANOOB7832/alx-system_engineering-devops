@@ -1,2 +1,2 @@
 #!/bin/bash
-dirname $PATH | wc -l
+echo $PATH | grep -v ':' | wc -l
